@@ -782,10 +782,10 @@ msgid_plural ""
 "Once removed, continuing the transfers will require the torrent files or "
 "magnet links."
 msgstr[0] ""
-"Uma vez removido, continuar a tranferência exigirá o arquivo torrent ou um "
+"Uma vez removido, continuar a transferência exigirá o arquivo torrent ou um "
 "link magnético."
 msgstr[1] ""
-"Uma vez removidos, continuar a tranferência exigirá os arquivos torrents ou "
+"Uma vez removidos, continuar a transferência exigirá os arquivos torrents ou "
 "links magnéticos."
 
 #: ../gtk/dialogs.c:117
